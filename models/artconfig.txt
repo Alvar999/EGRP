@@ -1,0 +1,7 @@
+AddCharModel(305, 20001, "skin01.dff", "skin01.txd");
+AddSimpleModel(-1,19379, -2002, "object.dff", "gtaomaintd.txd");
+AddSimpleModel(-1,19379, -2003, "object.dff", "icongun.txd");
+AddSimpleModel(-1,19379, -2004, "object.dff", "icondan.txd");
+AddSimpleModel(-1,19379, -2006, "object.dff", "MenuGTA.txd");
+AddSimpleModel(-1,19379, -2007, "object.dff", "huongdan.txd");
+AddSimpleModel(-1,19379, -2008, "object.dff", "iconbalo.txd");
